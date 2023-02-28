@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Dany
+ *
+ */
+module email {
+}
